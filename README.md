@@ -1,3 +1,3 @@
 # tensorflow_tutorial
 
-#for tensorflow learing purpose
+#for tensorflow learning purpose
